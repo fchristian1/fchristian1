@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fchristian1
-- 👀 I’m interested in c#, asp.net, js, ts, nodejs, angular,
-- 🌱 I’m currently learning nodejs and go
+- 👀 I’m interested in js, ts, nodejs, angular, react, (go)
+- 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on projects for beginning to work in projects
 - 📫 How to reach me fchristian1@gmx.net
 
