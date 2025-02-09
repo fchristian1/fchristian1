@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on projects for beginning to work in projects
 - 📫 How to reach me fchristian1@gmx.net
+- 📰 My website [froechte.de](https://froechte.de)
 
 <!---
 fchristian1/fchristian1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
